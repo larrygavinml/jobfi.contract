@@ -1,7 +1,7 @@
-# Token Drop Example
+# Jobfi.Contract
 
 ## Introduction
-
+Forked from Thirdweb Drop Token 
 In this guide, we will utilize the [**Token Drop**](https://portal.thirdweb.com/contracts/token-drop) contract to release ERC-20 tokens!
 
 We also utilize the token drop's [claim phases](https://portal.thirdweb.com/pre-built-contracts/token-drop#setting-claim-phases) feature, to release the tokens for a price, and only allow a certain amount to be claimed per wallet.
